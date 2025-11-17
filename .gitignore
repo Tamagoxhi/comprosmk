@@ -1,0 +1,23 @@
+# IDE dan Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sistem Operasi
+.DS_Store
+Thumbs.db
+*.log
+
+# Dependencies (jika ada)
+node_modules/
+vendor/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Cache files
+*.cache
+.phpunit.result.cache
